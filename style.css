@@ -46,7 +46,8 @@ button:active {
 
 button:disabled {
   cursor: default;
-  filter: brightness(305);
+  /* filter: brightness(100); */
+  color: #ff3482;
 }
 
 /* Media query: Tablet or Smaller  */
