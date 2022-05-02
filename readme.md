@@ -2,3 +2,6 @@
 
 
 [Click Here for Demo](https://gagansingh11.github.io/JokeTeller/)
+___
+![demo](demo.png)
+___
